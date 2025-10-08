@@ -1,6 +1,6 @@
 import React from 'react'
-import useFetch from '../../hooks/useFetch.jsx'
-import useForm from '../../hooks/useForm.jsx'
+import useFetch from '../../Hooks/useFetch.jsx'
+import useForm from '../../Hooks/useForm.jsx'
 import { login } from '../../Services/authService.js'
 import { useEffect } from 'react'
 import { useNavigate } from 'react-router'
